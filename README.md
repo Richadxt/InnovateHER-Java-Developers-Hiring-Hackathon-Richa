@@ -14,7 +14,7 @@ This project is a solution to the **Retry & Replay Framework Hackathon Challenge
 
 This full-stack application consists of:
 
-- 🌐 **Frontend**: Angular 17 with NG-ZORRO for a modern, role-based UI.
+- 🌐 **Frontend**: Angular 17 with NG-ZORRO for a modern, role-based UI. 
 - 🔧 **Backend**: Spring Boot (Java) using JPA, REST APIs, Quartz Scheduler.
 - 🛠️ **Database**: MySQL for storing retry transaction states.
 - 📋 **Optional Integration**: Kafka for event-driven retries.
@@ -90,5 +90,5 @@ Design and implement a **scalable**, **configurable**, and **user-friendly** Ret
 
 ## 📦 Project Structure
 
-### Backend Jar
-### Frontend Jar
+### Backend Jar - download zip file from Google Drive [here](https://drive.google.com/drive/folders/1FHq90xQoFoIj-sQA6GK9nIDDIYEScjIK) OR from above [richa-hackathon-project-backend.zip] file
+### Frontend Jar - download zip file from Google Drive [here](https://drive.google.com/drive/folders/1FHq90xQoFoIj-sQA6GK9nIDDIYEScjIK).
