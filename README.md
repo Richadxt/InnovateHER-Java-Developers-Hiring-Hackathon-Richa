@@ -61,8 +61,10 @@ Design and implement a **scalable**, **configurable**, and **user-friendly** Ret
 
 ### 👩‍💼 UI
 
-- 🌐 Angular frontend with clean dashboard view.
+- 🌐 Angular frontend with clean view.
 - 📊 View, replay, and track transaction status.
+
+- ![UI Screenshot](Images/UI.png)
 
 ### 🛡️ Logging & Monitoring
 
